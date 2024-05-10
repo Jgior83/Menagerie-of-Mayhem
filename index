@@ -1,42 +1,30 @@
 <!DOCTYPE html>
-  <html>
+<html lang="en">
 
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>Menagerie of Mayhem | Home</title>
-    <link href="stylehome.css" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="https://use.typekit.net/jgv7nju.css">
-  </head>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Menagerie of Mayhem | Landing</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://use.typekit.net/gxj7wkj.css">
+</head>
 
-  <body>
-    <div class="red-banner">
+<body>
 
-      <nav class="nav-menu">
-        <a href="home.html">Home</a>
-        <a href="signup.html">Signup</a>
-        <a href="members.html">Members</a>
-        <a href="resources.html">Resources</a>
-        <a href="faq.html">FAQ</a>
-      </nav>
+  <div class="background-image">
+    <div class="button-container">
+      <button class="enter-site">Dare to Enter?</button>
     </div>
-    <div id="welcome-text">
-      <h1
-        style="font-size: 70px; text-align: center; -webkit-text-stroke: 1px white; color: #8B0000; font-family: battery-park, sans-serif;">
-        Welcome to The Menagerie of Mayhem</h1>
-    </div>
-    <!-- Add your page content here -->
-    <!-- New background image -->
-    <style>
-      body {
-        background-image: url('cityscape.jpg');
-        background-color: black;
-        background-attachment: fixed;
-        background-position: center 50px;
-      }
+  </div>
 
-      }
-    </style>
+  <script src="script.js"></script>
+</body>
+<style="text-align: center;">
+  <div
+    style="position: absolute; bottom: 0; width: 100%; background-color: crimson; font-family: Academic; font-style: italic; color: white; text-align: center;">
+    &#169; 2024 Giordano Media Works | Menagerie of Mayhem. All rights reserved.</div>
+
+</html>
 
 
     <!-- Server News Section moved below the welcome message as requested -->
