@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+  <html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Menagerie of Mayhem | Home</title>
+    <link href="stylehome.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://use.typekit.net/jgv7nju.css">
+  </head>
+
+  <body>
+    <div class="red-banner">
+
+      <nav class="nav-menu">
+        <a href="home.html">Home</a>
+        <a href="signup.html">Signup</a>
+        <a href="members.html">Members</a>
+        <a href="resources.html">Resources</a>
+        <a href="faq.html">FAQ</a>
+      </nav>
+    </div>
+    <div id="welcome-text">
+      <h1
+        style="font-size: 70px; text-align: center; -webkit-text-stroke: 1px white; color: #8B0000; font-family: battery-park, sans-serif;">
+        Welcome to The Menagerie of Mayhem</h1>
+    </div>
+    <!-- Add your page content here -->
+    <!-- New background image -->
+    <style>
+      body {
+        background-image: url('cityscape.jpg');
+        background-color: black;
+        background-attachment: fixed;
+        background-position: center 50px;
+      }
+
+      }
+    </style>
+
+
+    <!-- Server News Section moved below the welcome message as requested -->
+    <div class="news-container">
+      <h2><strong>Server News</strong></h2>
+      <div class="news-items">
+        <!-- News items will be inserted here -->
+        <h3><strong>Survivors,</strong></h3>
+
+        <h3><em>We are thrilled to announce the official Menagerie of Mayhem | SCUM Public Server! Get ready to
+          dive into the thrilling world of SCUM with a vibrant community of fellow survivors.</em></h3>
+        <h3><strong>What We Offer:</strong></h3>
+
+        <h3><strong>Engaging Gameplay:</strong> <em>Explore the vast landscapes, scavenge for resources, and survive against
+          all odds.
+          Community Events: Participate in exciting events like PvP tournaments, scavenger hunts, and more!
+          Active Community: Join a welcoming community of like-minded survivors, ready to team up or challenge each other.</em>
+        </h3>
+
+        <h3><strong>Join the Community:</strong>
+          <em>To fully immerse yourself in the Menagerie of Mayhem experience, make sure to:</em></h3>
+
+        <h3><strong>Sign Up:</strong> <em>Take a moment to sign up in the Members Area on our website to gain access to server
+          and Discord information, events, and more.</em></h3>
+        <h3><strong>Join Discord:</strong> <em>Connect with fellow survivors, get updates on server events, and chat with
+          admins by joining our Discord server. [Insert Discord Invite Link]</em></h3>
+
+        <h3><strong>Spread the Word</strong></h3>
+        <h3><em>Invite your friends and fellow survivors to join the Menagerie of Mayhem community. The more, the merrier!</em>
+        </h3>
+      </div>
+    </div>
+    <!-- Add your page content here -->
+  <footer style="position: absolute; bottom: 0; width: 100%; background-color: crimson; font-family: Academic; font-style: italic; color: white; text-align: center;">
+      &#169; 2024 Giordano Media Works | Menagerie of Mayhem. All rights reserved.</footer>
+
+  </body>
+  </html>
